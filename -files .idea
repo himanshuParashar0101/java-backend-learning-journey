@@ -1,0 +1,17 @@
+ .gitignore                                         | 65 [32m+++++++++++++++++[m[31m-----[m
+ .idea/.gitignore                                   | 10 [31m----[m
+ .idea/compiler.xml                                 | 13 [31m-----[m
+ .idea/encodings.xml                                |  7 [31m---[m
+ .idea/jarRepositories.xml                          | 20 [31m-------[m
+ .idea/material_theme_project_new.xml               | 10 [31m----[m
+ .idea/misc.xml                                     |  6 [31m--[m
+ .idea/modules.xml                                  |  8 [31m---[m
+ .idea/vcs.xml                                      |  7 [31m---[m
+ java-backend-learning-journey.iml                  | 11 [31m----[m
+ pom.xml                                            | 19 [32m+++++++[m
+ .../conditionals/basics/IfStatementDemo.java       |  6 [32m+[m[31m-[m
+ .../fundamentals/introduction/Introduction.java    |  7 [32m+++[m
+ .../operators/basics/ArithmeticOperatorsDemo.java  | 15 [32m+++++[m
+ .../fundamentals/setup/EnvironmentCheck.java       | 22 [32m+++++++[m[31m-[m
+ .../fundamentals/variables/DeveloperProfile.java   | 13 [32m+++++[m
+ 16 files changed, 131 insertions(+), 108 deletions(-)
