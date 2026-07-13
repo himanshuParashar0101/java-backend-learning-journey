@@ -1,8 +1,10 @@
 # Java Backend Learning Journey
 <p align="center">
-  <img src="docs/assets/java-backend-readme-banner.gif"
-       alt="Java Backend Learning Journey"
-       width="900">
+  <img
+    src="docs/assets/java-backend-readme-banner.gif"
+    alt="Java Backend Learning Journey"
+    width="900"
+  />
 </p>
 
 [![Maven CI](https://github.com/himanshuParashar0101/java-backend-learning-journey/actions/workflows/maven-ci.yml/badge.svg)](https://github.com/himanshuParashar0101/java-backend-learning-journey/actions/workflows/maven-ci.yml)
