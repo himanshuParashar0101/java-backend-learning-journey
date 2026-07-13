@@ -1,8 +1,38 @@
 # Java Backend Learning Journey
 
-[![Maven CI](https://github.com/himanshuParashar0101/java-backend-learning-journey/actions/workflows/maven-ci.yml/badge.svg)](https://github.com/himanshuParashar0101/java-backend-learning-journey/actions/workflows/maven-ci.yml)
+<p align="center">
+  <img
+    src="docs/assets/java-backend-readme-banner.gif"
+    alt="Java Backend Learning Journey"
+    width="900"
+  />
+</p>
+
+<p align="center">
+  <a href="https://github.com/himanshuParashar0101/java-backend-learning-journey/actions/workflows/maven-ci.yml">
+    <img
+      src="https://github.com/himanshuParashar0101/java-backend-learning-journey/actions/workflows/maven-ci.yml/badge.svg"
+      alt="Maven CI"
+    />
+  </a>
+  <img src="https://img.shields.io/badge/Java-25-orange?logo=openjdk" alt="Java 25" />
+  <img src="https://img.shields.io/badge/Maven-Wrapper-blue?logo=apachemaven" alt="Maven Wrapper" />
+  <img src="https://img.shields.io/badge/Status-Active%20Learning-brightgreen" alt="Active Learning" />
+</p>
 
 A structured learning repository documenting my progression from **Java fundamentals** to **professional backend engineering** with Java, Maven, Spring Boot, databases, testing, and production-oriented development practices.
+
+## Quick Navigation
+
+- [Current Focus](#current-focus)
+- [Learning Progress](#learning-progress)
+- [Repository Structure](#repository-structure)
+- [Development Workflow](#development-workflow)
+- [Build and Verification](#build-and-verification)
+- [Continuous Integration](#continuous-integration)
+- [Developer Fun Corner](#developer-fun-corner)
+- [More Developer Moments](#more-developer-moments)
+- [Documentation](#documentation)
 
 ## Current Focus
 
@@ -14,7 +44,23 @@ A structured learning repository documenting my progression from **Java fundamen
 - nested conditions
 - `switch`
 
+<p align="center">
+  <img
+    src="docs/assets/java-concepts.gif"
+    alt="Java concepts learning progression"
+    width="850"
+  />
+</p>
+
 ## Learning Progress
+
+<p align="center">
+  <img
+    src="docs/assets/backend-roadmap.gif"
+    alt="Java backend engineering roadmap"
+    width="850"
+  />
+</p>
 
 ### Java Fundamentals
 
@@ -66,6 +112,16 @@ java-backend-learning-journey/
 ├── .mvn/
 │   └── wrapper/
 │       └── maven-wrapper.properties
+├── docs/
+│   └── assets/
+│       ├── java-backend-readme-banner.gif
+│       ├── java-concepts.gif
+│       ├── backend-roadmap.gif
+│       ├── git-workflow.gif
+│       ├── commit-history.gif
+│       ├── maven-build.gif
+│       ├── fun/
+│       └── extra/
 ├── src/
 │   ├── main/
 │   │   ├── java/
@@ -111,6 +167,14 @@ Every learning topic follows an industry-style Git and GitHub workflow:
 8. Merge into `main`
 9. Delete the completed branch
 
+<p align="center">
+  <img
+    src="docs/assets/git-workflow.gif"
+    alt="Industry Git and GitHub workflow"
+    width="850"
+  />
+</p>
+
 ### Branch Naming Examples
 
 ```text
@@ -132,9 +196,25 @@ build: add Maven Wrapper for reproducible builds
 ci: verify project using Maven Wrapper
 ```
 
+<p align="center">
+  <img
+    src="docs/assets/commit-history.gif"
+    alt="Clean and focused Git commit history"
+    width="850"
+  />
+</p>
+
 ## Build and Verification
 
 This project uses the **Maven Wrapper**, so a separate global Maven installation is not required.
+
+<p align="center">
+  <img
+    src="docs/assets/maven-build.gif"
+    alt="Maven Wrapper build verification"
+    width="850"
+  />
+</p>
 
 ### Windows
 
@@ -168,11 +248,6 @@ Workflow file:
 .github/workflows/maven-ci.yml
 ```
 
-## Documentation
-
-- [Java Backend Roadmap](ROADMAP.md)
-- [Learning Log](LEARNING_LOG.md)
-
 ## Engineering Principles
 
 This repository follows these practices:
@@ -186,6 +261,129 @@ This repository follows these practices:
 - Generated files excluded through `.gitignore`
 - Reproducible builds through Maven Wrapper
 - Consistent line endings through `.gitattributes`
+
+## Developer Fun Corner
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="docs/assets/fun/coffee-compiling.gif" width="420" alt="Coffee-powered compilation" />
+      <br />
+      <strong>Coffee-Powered Compilation</strong>
+    </td>
+    <td align="center">
+      <img src="docs/assets/fun/semicolon-panic.gif" width="420" alt="Missing semicolon panic" />
+      <br />
+      <strong>The Missing Semicolon</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="docs/assets/fun/rubber-duck-debugging.gif" width="420" alt="Rubber duck debugging" />
+      <br />
+      <strong>Rubber Duck Debugging</strong>
+    </td>
+    <td align="center">
+      <img src="docs/assets/fun/bug-hunt.gif" width="420" alt="Java bug hunt" />
+      <br />
+      <strong>Bug Hunt</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="docs/assets/fun/merge-conflict-boss.gif" width="420" alt="Merge conflict boss fight" />
+      <br />
+      <strong>Merge Conflict Boss Fight</strong>
+    </td>
+    <td align="center">
+      <img src="docs/assets/fun/works-on-my-machine.gif" width="420" alt="It works on my machine" />
+      <br />
+      <strong>It Works on My Machine</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="docs/assets/fun/commit-loading.gif" width="420" alt="Git commit loading" />
+      <br />
+      <strong>Commit Loading</strong>
+    </td>
+    <td align="center">
+      <img src="docs/assets/fun/exception-party.gif" width="420" alt="Java exception party" />
+      <br />
+      <strong>Exception Party</strong>
+    </td>
+  </tr>
+</table>
+
+## More Developer Moments
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="docs/assets/extra/infinite-loop.gif" width="420" alt="Infinite loop" />
+      <br />
+      <strong>Infinite Loop</strong>
+    </td>
+    <td align="center">
+      <img src="docs/assets/extra/null-pointer-jumpscare.gif" width="420" alt="Null pointer jump scare" />
+      <br />
+      <strong>Null Pointer Jump Scare</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="docs/assets/extra/tests-green.gif" width="420" alt="Tests are green" />
+      <br />
+      <strong>Tests Are Green</strong>
+    </td>
+    <td align="center">
+      <img src="docs/assets/extra/refactor-glow-up.gif" width="420" alt="Refactor glow-up" />
+      <br />
+      <strong>Refactor Glow-Up</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="docs/assets/extra/branch-tree.gif" width="420" alt="Git branch tree" />
+      <br />
+      <strong>Branch Tree</strong>
+    </td>
+    <td align="center">
+      <img src="docs/assets/extra/rest-api-ping-pong.gif" width="420" alt="REST API request and response" />
+      <br />
+      <strong>REST API Ping-Pong</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="docs/assets/extra/database-query.gif" width="420" alt="Database query" />
+      <br />
+      <strong>Database Query</strong>
+    </td>
+    <td align="center">
+      <img src="docs/assets/extra/spring-boot-startup.gif" width="420" alt="Spring Boot startup" />
+      <br />
+      <strong>Spring Boot Startup</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="docs/assets/extra/docker-ship-it.gif" width="420" alt="Docker ship it" />
+      <br />
+      <strong>Docker: Ship It</strong>
+    </td>
+    <td align="center">
+      <img src="docs/assets/extra/late-night-coding.gif" width="420" alt="Late-night coding" />
+      <br />
+      <strong>Late-Night Coding</strong>
+    </td>
+  </tr>
+</table>
+
+## Documentation
+
+- [Java Backend Roadmap](ROADMAP.md)
+- [Learning Log](LEARNING_LOG.md)
 
 ## Technology Stack
 
