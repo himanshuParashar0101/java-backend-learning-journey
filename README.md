@@ -68,7 +68,7 @@ A structured learning repository documenting my progression from **Java fundamen
 - [x] First Java program
 - [x] Variables and data types
 - [x] Arithmetic operators
-- [ ] Conditional statements
+- [x] Conditional statements
 - [ ] Loops
 - [ ] Methods
 - [ ] Arrays
