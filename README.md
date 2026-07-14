@@ -36,13 +36,18 @@ A structured learning repository documenting my progression from **Java fundamen
 
 ## Current Focus
 
-**Java conditional statements**
+## Current Focus
 
-- `if`
-- `if-else`
-- `else-if`
-- nested conditions
-- `switch`
+**Java decision-making fundamentals completed**
+
+- Boolean expressions
+- Comparison operators
+- Logical operators
+- `if`, `else-if`, and `else`
+- Boundary-condition testing
+- Conditional practice problems
+
+**Next milestone:** Java loops
 
 <p align="center">
   <img
